@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
+
 class Solution {
     static void displayPathtoPrincess(int n, String[] grid) {
         // Find bot and princess positions
